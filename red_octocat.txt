@@ -1,0 +1,17 @@
+
+	This is Red
+
+Mastering Git
+2hrs42m Updated 12 Oct 2016 by Paolo Perrotta
+https://app.pluralsight.com/library/courses/mastering-git/table-of-contents
+
+How Git Works
+1h 49m Released 10 Mar 2016 by Paolo Perrotta
+https://app.pluralsight.com/library/courses/how-git-works/table-of-contents
+
+Git Fundamentals
+1h 51m Released22 May 2012 by James Kovacs
+https://app.pluralsight.com/library/courses/git-fundamentals/table-of-contents
+
+course completed last year!!!
+https://app.pluralsight.com/library/courses/git-advanced-tips-tricks/table-of-contents
